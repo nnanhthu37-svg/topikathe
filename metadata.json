@@ -1,0 +1,7 @@
+{
+  "name": "TOPIK 시험 - Luyện Đọc Trung Cấp",
+  "description": "Ứng dụng luyện thi đọc TOPIK II Trung cấp (Cấp 3-4) theo từng dạng câu hỏi chuẩn đề thi công khai NIIED kèm tạo câu hỏi AI, giải thích chi tiết và sổ tay từ vựng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
